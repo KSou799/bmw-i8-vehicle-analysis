@@ -53,6 +53,23 @@ Tractive force vs resistance (all gears + CVT comparison)
 
 Acceleration vs speed for each gear
 
+## Sample Results
+
+### Figure 1 – Aerodynamic Drag Analysis
+![Aerodynamic Drag](images/aerodynamic_drag.png)
+
+### Figure 2 – Rolling Resistance
+![Rolling Resistance](images/rolling_resistance.png)
+
+### Figure 3 – Grade Resistance
+![Grade_Resistance](images/grade_resistance.png)
+
+### Figure 4 – Tractive Force vs Resistance
+![Tractive Force](images/tractive_force.png)
+
+### Figure 5 – Acceleration Performance
+![Acceleration](images/acceleration.png)
+
 **How to Run**
 
 Install GNU Octave
@@ -73,8 +90,6 @@ Engineering modeling and assumptions
 Numerical computation in GNU Octave
 
 Data visualization and interpretation
-### Figure 1 – Aerodynamic Drag Analysis
-![Aerodynamic Drag](aerodynamic_drag.png)
 
 **Author**
 
