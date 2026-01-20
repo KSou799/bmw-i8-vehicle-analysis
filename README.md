@@ -1,6 +1,6 @@
 BMW i8 Vehicle Performance Analysis (GNU Octave)
 
-This project performs a longitudinal vehicle dynamics analysis of the BMW i8 Coupe using GNU Octave.
+This project performs a vehicle dynamics analysis of the BMW i8 Coupe using GNU Octave / MATLAB.
 It evaluates tractive force, resistive forces, and acceleration performance based on engineering calculations.
 
 The project is intended for educational and engineering analysis purposes.
