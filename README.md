@@ -73,6 +73,8 @@ Engineering modeling and assumptions
 Numerical computation in GNU Octave
 
 Data visualization and interpretation
+### Figure 1 – Aerodynamic Drag Analysis
+![Aerodynamic Drag](aerodynamic_drag.png)
 
 **Author**
 
