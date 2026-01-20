@@ -90,6 +90,9 @@ grid on
 
 fprintf('  ✓ Aerodynamic drag analysis complete\n\n');
 
+### Figure 1 – Aerodynamic Drag Analysis
+
+
 %% 2. ROLLING RESISTANCE ANALYSIS
 fprintf('Running Rolling Resistance Analysis...\n');
 
@@ -125,6 +128,8 @@ grid on
 
 fprintf('  ✓ Rolling resistance analysis complete\n\n');
 
+### Figure 2 – Rolling Resistance Analysis
+
 %% 3. GRADE RESISTANCE ANALYSIS
 fprintf('Running Grade Resistance Analysis...\n');
 
@@ -148,6 +153,8 @@ zlabel('Power [kW]','fontweight','bold')
 colorbar
 
 fprintf('  ✓ Grade resistance analysis complete\n\n');
+
+### Figure 3 – Grade Resistance Analysis
 
 %% 4. TRACTIVE FORCE CALCULATION
 fprintf('Running Tractive Force Calculation...\n');
@@ -240,6 +247,8 @@ ylim([0 30000])
 
 fprintf('  ✓ Tractive force calculation complete\n\n');
 
+### Figure 4 – Tractive Force Graph
+
 %% 5. ACCELERATION ANALYSIS
 fprintf('Running Acceleration Analysis...\n');
 
@@ -275,3 +284,5 @@ fprintf('  2. Rolling Resistance Analysis\n');
 fprintf('  3. Grade Resistance Analysis\n');
 fprintf('  4. Tractive Force Graph\n');
 fprintf('  5. Acceleration Performance\n\n');
+
+### Figure 5 – Acceleration Performance
