@@ -58,13 +58,13 @@ Acceleration vs speed for each gear
 ### Figure 1 – Aerodynamic Drag Analysis
 ![Aerodynamic Drag](aerodynamic_drag.png)
 
-### Figure 2 – Rolling Resistance
+### Figure 2 – Rolling Resistance Analysis
 ![Rolling Resistance](rolling_resistance.png)
 
-### Figure 3 – Grade Resistance
+### Figure 3 – Grade Resistance Analysis
 ![Grade_Resistance](grade_resistance.png)
 
-### Figure 4 – Tractive Force vs Resistance
+### Figure 4 – Tractive Force Graph
 ![Tractive Force](tractive_force.png)
 
 ### Figure 5 – Acceleration Performance
